@@ -32,6 +32,3 @@ This objective evaluates how contact method, campaign frequency, timing, and pre
 - Education level and marital status also influenced loan uptake.
 - Contact type, campaign timing, and number of campaign contacts affected subscription success.
 - December and March showed stronger campaign success than some other months.
-├── scripts/
-├── outputs/
-└── images/
